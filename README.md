@@ -29,7 +29,7 @@ Through this GitHub profile, I share my labs, projects, write-ups, and notes as 
 
 🧰 Tools & Technologies
 
-Wireshark • Nmap • pfSense • Wazuh • Cisco Packet Tracer • Kali Linux • Ubuntu • Windows • Nessus • GitHub • Draw.io  • Hydra • Metaspliot • Metaspliotable2 • Sublist3r • theHavester
+Wireshark • Nmap • pfSense • Wazuh • Cisco Packet Tracer • Kali Linux • Ubuntu • Windows • Nessus • GitHub • Draw.io  • Hydra • Metaspliot • Metaspliotable2 • Sublist3r • Nikto • Burpsuit • Wappalazer • OWASP TOP 10 • MITRE ATT&CK • CVE • CVSS • NIST CSF • NIST 800-53 • ISO 27001 •DVWA
 
 
 🎯 2026 Goals
