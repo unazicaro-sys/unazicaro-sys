@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Caroline Ogbebo 
 
-🛡️ Cybersecurity Analyst in Training | SOC | Blue Team | Networking | GRC
+🛡️ Cybersecurity Analyst in Training | GRC Analyst | GRC Specialist | Information Security Analyst | ISMS Analyst | IT Risk & Compliance Analyst | Third-Party Risk AnalystSOC | Blue Team | Networking
 
-I am an aspiring Cybersecurity Analyst passionate about defending systems, understanding networks, and turning complex security concepts into practical solutions.
+I am a Cybersecurity Analyst passionate about defending systems, understanding networks, and turning complex security concepts into practical solutions.
 
 My journey into cybersecurity is built on curiosity, consistency, and hands-on learning. I believe the best way to learn is by building, breaking, troubleshooting, and documenting every step of the process.
 
