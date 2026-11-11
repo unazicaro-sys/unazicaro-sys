@@ -1,53 +1,95 @@
-# 👋 Hi there, I'm Caroline Ogbebo 
+# 👋 Hi there, I'm Caroline Ogbebo 👋
 
-🛡️ Cybersecurity Analyst in Training | GRC Analyst | GRC Specialist | Information Security Analyst | ISMS Analyst | IT Risk & Compliance Analyst | Third-Party Risk AnalystSOC | Blue Team | Networking
-
-I am a Cybersecurity Analyst passionate about defending systems, understanding networks, and turning complex security concepts into practical solutions.
-
-My journey into cybersecurity is built on curiosity, consistency, and hands-on learning. I believe the best way to learn is by building, breaking, troubleshooting, and documenting every step of the process.
-
-Through this GitHub profile, I share my labs, projects, write-ups, and notes as I develop skills in:
-
-- 🔍 Security Operations Center (SOC)
-- 🌐 Networking & Network Segmentation
-- 🐧 Linux & 🪟 Windows Administration
-- 🔥 Firewall Configuration with pfSense
-- 📡 Packet Analysis using Wireshark
-- 🛰️ Network Discovery with Nmap
-- 🚨 Threat Detection & Incident Response
-- 📋 Governance, Risk & Compliance (GRC)
-- 🛠️ Enterprise Network Design with Cisco Packet Tracer
-- 📈 Security Documentation & Visualisation with Draw.io
-
-🚀 Current Focus
-
-- Building and documenting hands-on cybersecurity labs
-- Designing secure enterprise networks and implementing ACLs
-- Practising IP addressing, subnetting, and network segmentation
-- Developing SOC analyst skills through log analysis and security monitoring
-- Strengthening Blue Team methodologies and defensive security practices
-
-🧰 Tools & Technologies
-
-Wireshark • Nmap • pfSense • Wazuh • Cisco Packet Tracer • Kali Linux • Ubuntu • Windows • Nessus • GitHub • Draw.io  • Hydra • Metaspliot • Metaspliotable2 • Sublist3r • Nikto • Burpsuit • Wappalazer • OWASP TOP 10 • MITRE ATT&CK • CVE • CVSS • NIST CSF • NIST 800-53 • ISO 27001 •DVWA
+### 🛡️ Cybersecurity GRC | Information Security Risk | ISMS Analyst | Information Security Analyst | IT Risk & Compliance Analyst | Third-Party Risk Analyst | SOC
 
 
-🎯 2026 Goals
+I am a cybersecurity professional with 12+ years of experience in regulatory compliance, investigations, enforcement and operational oversight.
 
-- Build a standout cybersecurity portfolio
-- Master networking and security fundamentals
-- Gain practical experience through projects and labs
-- Contribute to the cybersecurity community
-- Earn industry-recognised certifications
-- Secure a Cybersecurity Analyst / SOC Analyst / GRC Role
+My focus is **Governance, Risk and Compliance (GRC)**, where I combine my compliance background, business knowledge and practical cybersecurity learning to explore how organisations identify, assess and manage information security risks.
 
----
 
-“Every expert was once a beginner.”
+### 🔐 Areas of Focus
 
-I’m documenting the journey, one lab, one project, and one lesson at a time. Feel free to explore my repositories, provide feedback, or connect with me as I grow in the world of cybersecurity.
+- Information Security Governance, Risk and Compliance
+- ISO/IEC 27001:2022 and ISMS development
+- NIST Cybersecurity Framework
+- Information Security Risk Assessments
+- Risk Registers and Risk Treatment Plans
+- Statement of Applicability (SoA) and Control Gap Analysis
+- Policy Documentation and Audit Readiness
+- Vulnerability Assessment and Remediation
+- Threat Intelligence and OSINT
+- Security Monitoring and Incident Documentation
 
-⭐ Follow my journey and let’s learn, build, and secure together.
-[LinkedIn] www.linkedin.com/in/caroline-ogbebo-97b21253
-[Email] unazicaro@gmail.com 
+
+
+### 🛠️ Tools & Technologies
+
+**GRC & Frameworks:** ISO 27001, NIST CSF, IEC 62443, MITRE ATT&CK, CVEs
+
+**Security Tools:** Wazuh, Nmap, Nessus, Wireshark, pfSense, Snort, Metasploit, VirusTotal, AbuseIPDB
+
+**Environments:** Kali Linux, Ubuntu, Cisco Packet Tracer
+
+
+
+### 📂 Selected Projects
+
+**GreenGrid Renewable Energy – ISMS & OT Risk Assessment**
+- Information security risk assessment for a critical infrastructure scenario.
+- Asset classification, risk treatment and control mapping.
+- ISO 27001-aligned ISMS documentation and Statement of Applicability.
+- SCADA, OT security and IT/OT segregation considerations.
+
+**Vertex Digital Systems – Vulnerability Assessment**
+- Simulated Linux server security assessment.
+- Network and vulnerability scanning using Nmap and Nessus.
+- Findings documentation and remediation recommendations.
+
+**Threat Intelligence & OSINT Research**
+- Defensive open-source intelligence research.
+- Phishing indicators and threat observations.
+- MITRE ATT&CK mapping and security recommendations.
+
+
+
+### 💼 Professional Background
+
+My previous experience in regulatory enforcement, claims and compensation, compliance operations and management has developed my strengths in:
+
+- Investigative thinking and evidence handling.
+- Regulatory accountability and compliance monitoring.
+- Risk documentation and reporting.
+- Stakeholder communication and operational coordination.
+
+I hold an **MBA in Finance and Investment**, alongside a BSc in Business Administration.
+
+
+
+### 🎯 What I'm Working Towards
+
+I am continuously developing my capabilities in cybersecurity GRC, information security risk management, ISMS implementation and compliance assurance.
+
+I am interested in collaborating, learning from the cybersecurity community and contributing to projects that support safer, more resilient organisations.
+
+
+
+### 🤝 Connect With Me
+
+- **LinkedIn:** [Caroline Ogbebo](https://www.linkedin.com/in/caroline-ogbebo-97b21253)
+- [Email] unazicaro@gmail.com
+  
+
+*Building knowledge, documenting progress and turning compliance principles into practical security outcomes.*
+
+
+
+
+
+
+
+
+
+
+
 
