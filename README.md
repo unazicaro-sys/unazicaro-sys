@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Caroline Ogbebo 👋
 
-### 🛡️ Cybersecurity GRC | Information Security Risk | ISMS Analyst | Information Security Analyst | IT Risk & Compliance Analyst | Third-Party Risk Analyst | SOC
+### 🛡️ Cybersecurity Analyst | SOC Analyst | GRC Analyst | Information Security Risk | ISMS Analyst | Information Security Analyst | IT Risk & Compliance Analyst | Third-Party Risk Analyst
 
 
 I am a cybersecurity professional with 12+ years of experience in regulatory compliance, investigations, enforcement and operational oversight.
